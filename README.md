@@ -17,15 +17,15 @@ be aware of it.
   <li>`main.py` is a file that comprises overall logic. Bot can react
       to certain commands to do various things like
    <ol>
-     <li>give `quotes` from https://zenquotes.io </li>
-      <li>allow user to add/remove words from DB </li>
+     <li>gives `quotes` from [https://zenquotes.io] </li>
+      <li>allows user to add/remove words from DB </li>
       <li>responds to user if there is sad/depressed word in the phrase with ebullient one </li>
       <li>enables user to turn onn/off above mentioned feature </li>
-      <li>make some other things </li>
+      <li>makes some other things </li>
   </ol>
  </li>
  
- <li>`NoSQL_model.py` is a file with class that keeps <i>happe and sad</i> phrases in stock
+ <li>`NoSQL_model.py` is a file with class that keeps <i>happy and sad</i> phrases in stock
       and makes possible various manipulations like adding/removing
  </li>
  
@@ -34,7 +34,7 @@ be aware of it.
  </li>
  
  <li>`trigger_bot.py` is a file that makes bot alive and not allow it to go into sleep.
-      It is possible also due to https://uptimerobot.com
+      It is possible also due to [https://uptimerobot.com]
  </li>
 </ul>
 

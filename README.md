@@ -1,6 +1,6 @@
 <h2>Discrod_bot</h2>
 
-This is a bot that I initially made on https://replit.com/~ 
+This is a bot that I initially made on [https://replit.com/~ ]
 <br>
 
 <h5>Caveat:</h5>

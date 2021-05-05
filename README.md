@@ -4,7 +4,7 @@ This is a bot that I initially made on https://replit.com/~
 <br>
 
 <h5>Caveat:</h5>
-I used `replit` built in NoSQL db, hence if you want to use it,
+I used `replit` built in NoSQL db, hence if you want to use my bot,
 be aware of it.
 
 <h3>Description</h3>

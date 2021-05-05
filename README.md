@@ -1,6 +1,6 @@
 <h2>Discrod_bot</h2>
 
-This is a bot that I initially made on (https://replit.com/~)
+This is a bot that I initially made on [Link to replit](https://replit.com/~)
 <br>
 
 <h5>Caveat:</h5>
@@ -17,7 +17,7 @@ be aware of it.
   <li>`main.py` is a file that comprises overall logic. Bot can react
       to certain commands to do various things like
    <ol>
-     <li>gives `quotes` from (https://zenquotes.io) </li>
+     <li>gives `quotes` from [Link to zenquotes](https://zenquotes.io) </li>
       <li>allows user to add/remove words from DB </li>
       <li>responds to user if there is sad/depressed word in the phrase with ebullient one </li>
       <li>enables user to turn onn/off above mentioned feature </li>
@@ -34,7 +34,7 @@ be aware of it.
  </li>
  
  <li>`trigger_bot.py` is a file that makes bot alive and not allow it to go into sleep.
-      It is possible also due to (https://uptimerobot.com)
+      It is possible also due to [Link to uptimerobot](https://uptimerobot.com)
  </li>
 </ul>
 
